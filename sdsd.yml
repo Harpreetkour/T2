@@ -1,0 +1,7 @@
+template-file-path: s3.yml
+parameters:
+  Param1: ParamValue1
+  Param2: ParamValue2
+tags:
+  Tag1: TagValue1
+  Tag2: ''
